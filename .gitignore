@@ -3,3 +3,9 @@ __pycache__/
 .pytest_cache/
 *.py[cod]
 .env
+
+# DevSecOps scan artifacts
+devsecops-inspect.tar
+sbom-v2*.json
+trivy-v2.json
+trivy-final.json
